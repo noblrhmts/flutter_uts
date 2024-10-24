@@ -1,16 +1,18 @@
-# flutter_uts
+Nama: Nobel Rahmat Sani
 
-A new Flutter project.
+Kelas: 2A TRPL
 
-## Getting Started
+NIM: 362358302075
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+1. Login
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/user-attachments/assets/6097fa53-8214-4a48-90b1-6ce21df8313b)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Register
+
+![image](https://github.com/user-attachments/assets/50906907-fedc-44a1-86c9-593816cff761)
+
+3. Profile
+
+![image](https://github.com/user-attachments/assets/d041e699-22f2-4b81-bbbb-739980864263)
