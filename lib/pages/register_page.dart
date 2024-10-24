@@ -9,7 +9,7 @@ class RegisterPage extends StatelessWidget {
           color: Colors.white,
         ),),
         iconTheme: IconThemeData(
-          color: Colors.white, // Mengubah warna tombol back
+          color: Colors.white,
         ),
         backgroundColor: const Color.fromARGB(255, 37, 37, 37),
       ),

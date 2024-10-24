@@ -11,7 +11,7 @@ class ProfilePage extends StatelessWidget {
           style: TextStyle(color: Colors.white),
         ),
         iconTheme: IconThemeData(
-          color: Colors.white, // Mengubah warna tombol back
+          color: Colors.white,
         ),
         backgroundColor: const Color.fromARGB(255, 37, 37, 37),
       ),
@@ -22,7 +22,7 @@ class ProfilePage extends StatelessWidget {
             CircleAvatar(
               radius: 70,
               backgroundImage:
-                  AssetImage('assets/image/1.jpg'), // Perbaikan disini
+                  AssetImage('assets/image/1.jpg'),
             ),
             SizedBox(height: 40),
             Text('Nama: Nobel Rahmat Sani'),
